@@ -26,7 +26,7 @@ public class Calculator {
 		System.out.println("Addition : " + calculator.add(20, 10));
 		System.out.println("Subtraction : " + calculator.subtract(20, 10));
 		
-		System.out.println("Multiplication is : " + calculator.multiply(20, 10));
-		System.out.println("Division is : " + calculator.division(20, 10));
+		System.out.println("Addition : " + calculator.multiply(20, 10));
+		System.out.println("Subtraction : " + calculator.division(20, 10));
 	}
 }
