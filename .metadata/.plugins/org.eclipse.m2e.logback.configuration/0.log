@@ -1,0 +1,55 @@
+2026-06-30 20:37:14,322 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2026-06-30 20:42:11,204 [Worker-30: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.company.employee:employee_management:0.0.1-SNAPSHOT @ C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\pom.xml.
+2026-06-30 20:42:15,464 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee_management/src/main/java
+2026-06-30 20:42:15,466 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee_management/src/main/resources
+2026-06-30 20:42:15,483 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee_management/src/main/resources
+2026-06-30 20:42:15,497 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee_management/src/test/java
+2026-06-30 20:42:18,106 [Worker-30: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2026-06-30 20:42:18,110 [Worker-30: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-06-30 20:42:18,489 [Worker-30: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.company.employee:employee_management:0.0.1-SNAPSHOT @ C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\pom.xml.
+2026-06-30 20:42:18,798 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee_management/src/main/java
+2026-06-30 20:42:18,799 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee_management/src/main/resources
+2026-06-30 20:42:18,799 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee_management/src/main/resources
+2026-06-30 20:42:18,799 [Worker-30: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee_management/src/test/java
+2026-06-30 20:42:19,149 [Worker-30: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2026-06-30 20:42:20,157 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:42:20,188 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:42:20,192 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:44:30,597 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:44:30,608 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:44:30,610 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:44:40,761 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:44:40,771 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:44:40,773 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:44:56,342 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:44:56,401 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:44:56,405 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:45:09,810 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:45:09,829 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:45:09,831 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:45:20,749 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:45:20,797 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:45:20,801 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:45:28,542 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:45:28,565 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:45:28,567 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:45:31,513 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:45:31,537 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:45:31,543 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:45:36,208 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:45:36,229 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:45:36,232 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:47:24,980 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.company.employee:employee_management:0.0.1-SNAPSHOT @ C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\pom.xml.
+2026-06-30 20:47:29,946 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:47:29,947 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:47:29,949 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
+2026-06-30 20:47:37,050 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-06-30 20:47:37,420 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.company.employee:employee_management:0.0.1-SNAPSHOT @ C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\pom.xml.
+2026-06-30 20:47:37,684 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee_management/src/main/java
+2026-06-30 20:47:37,685 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee_management/src/main/resources
+2026-06-30 20:47:37,685 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /employee_management/src/main/resources
+2026-06-30 20:47:37,686 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /employee_management/src/test/java
+2026-06-30 20:47:37,853 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2026-06-30 20:47:38,569 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-06-30 20:47:38,600 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-30 20:47:38,604 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\JAYDEV RATHOD\eclipse-workspace\Github_PracticeJava\employee_management\src\test\resources
